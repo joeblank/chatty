@@ -77,3 +77,23 @@ body {
     border-bottom: 0;
   }
 }
+
+/*joe blank added code below*/
+
+.messages {
+  display: flex;
+  background: gray;
+  margin: 5px 0px -20px 0px;
+}
+
+.avatar {
+  margin: 15px;
+  width: 75px;
+  height: 50px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.background {
+  background: gray;
+}
